@@ -1,5 +1,7 @@
 # 🛡️ PhantomJS - Advanced Security Toolkit 🛡️
 
+![Danny-Phantom](https://github.com/user-attachments/assets/42e5800d-054c-417e-9fb3-a02fc983713c?raw=true&size=100)
+
 ## 🌐 Overview
 PhantomJS is a cutting-edge security toolkit 🚀 designed for advanced system management and security operations. It provides a comprehensive suite of features for system integration, monitoring, and control, with a focus on stealth and security. 🔒
 
